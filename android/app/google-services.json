@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "81533999075",
+    "project_id": "lungti-food-waste",
+    "storage_bucket": "lungti-food-waste.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:81533999075:android:2ed4ae6be4acf46808f2d6",
+        "android_client_info": {
+          "package_name": "com.lungti.foodwaste"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "81533999075-akov4rd1ncvrq25d0451fnuabg0e441a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lungti.foodwaste",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "81533999075-adi9lrrhfgotu91vk3hd4gctf840esag.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPfQz3ILinWGa9CHSIwrb8VDHC4T7aTV4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "81533999075-adi9lrrhfgotu91vk3hd4gctf840esag.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "81533999075-iq17iu4ae0hpu65asei8s8s3r1tel4qh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.lungti.foodwaste"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:81533999075:android:3d31cc9e00030f7208f2d6",
+        "android_client_info": {
+          "package_name": "com.stopbye.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "81533999075-2t838ed1apl7mqumoqs67tfot6mthomj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.stopbye.app",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "81533999075-adi9lrrhfgotu91vk3hd4gctf840esag.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPfQz3ILinWGa9CHSIwrb8VDHC4T7aTV4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "81533999075-adi9lrrhfgotu91vk3hd4gctf840esag.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "81533999075-iq17iu4ae0hpu65asei8s8s3r1tel4qh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.lungti.foodwaste"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

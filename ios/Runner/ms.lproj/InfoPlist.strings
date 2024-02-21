@@ -1,0 +1,4 @@
+NSLocationWhenInUseUsageDescription = "Untuk mencari kedai berdekatan, apl ini memerlukan akses ke lokasi semasa anda.";
+NSCameraUsageDescription = "Untuk mengambil gambar atau video, aplikasi ini memerlukan kebenaran untuk mengakses kamera.";
+NSPhotoLibraryUsageDescription = "Untuk memuat naik foto, sila berikan apl akses kepada foto anda dalam Tetapan.";
+PermissionGroupNotification = "Dapatkan pemberitahuan tentang ketersediaan, kemas kini ciri, promosi dan banyak lagi.";
