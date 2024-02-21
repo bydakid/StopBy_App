@@ -1,0 +1,4 @@
+NSLocationWhenInUseUsageDescription = "In order to search stores nearby, this app requires acces to your current location.";
+NSCameraUsageDescription = "In order to take a picture or video, this app requires permission to access the camera.";
+NSPhotoLibraryUsageDescription = "To upload photos, please grant the app access to your photos in Settings.";
+PermissionGroupNotification = "Get notified about availability, feature updates, promotions, and more.";

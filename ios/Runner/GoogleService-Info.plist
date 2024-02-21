@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>81533999075-vuoomlm5948oloc82f2ifo0h9silrums.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.81533999075-vuoomlm5948oloc82f2ifo0h9silrums</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>81533999075-2t838ed1apl7mqumoqs67tfot6mthomj.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDL_KQgLUJXj6JnfBQsOwo_pe6lW49cVuA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>81533999075</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.stopbye.app</string>
+	<key>PROJECT_ID</key>
+	<string>lungti-food-waste</string>
+	<key>STORAGE_BUCKET</key>
+	<string>lungti-food-waste.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:81533999075:ios:e5de86bba04208f708f2d6</string>
+</dict>
+</plist>
